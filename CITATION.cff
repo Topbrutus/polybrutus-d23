@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d23
 abstract: "Exact labelled 28-point Euclidean metric and chosen ideal weighted-graph model, without physical dimension claims."
+doi: 10.5281/zenodo.24410035
+url: https://doi.org/10.5281/zenodo.24410035

@@ -1,0 +1,5 @@
+# SHA-256 values for Zenodo record 24410035 and frozen source v0.1.0
+# ZIP is distributed on Zenodo, not as a repository root file.
+134ba20f30c19aeb47d42a6088b29bbf841c8780b466684ec99f3576e677b906  POLYBRUTUS_D23_SOURCE_v0.1.0_GITHUB_TAG.zip
+83f0310526b1279797c6b180dd0ca95109311075f1db4d60a022dd6c36d234bf  publication/POLYBRUTUS_23D_NOTE.pdf
+a3ef363bb5407ed54b07b3e1002c25d4dbdcbef946bb186862c891076c626724  results/certificate_d23.json

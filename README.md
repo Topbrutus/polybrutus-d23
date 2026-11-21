@@ -24,6 +24,14 @@ python tests/independent_d23.py
 
 Both scripts print the same SHA-256 of `results/certificate_d23.json`, with no floating-point approximations. GitHub Actions runs both. Parent sources and original D22 certificate are preserved under `prior/d22/` without editing the parent release.
 
+## Official DOI and public verification
+
+- **Public Zenodo DOI:** [10.5281/zenodo.24410035](https://doi.org/10.5281/zenodo.24410035).
+- **Record:** https://zenodo.org/records/24410035 ; 3/3 files independently checked by public API.
+- **Frozen scientific tag CI:** [GitHub Actions run 44855105326](https://github.com/Topbrutus/polybrutus-d23/actions/runs/44855105326), `success`.
+- **Central Memoria registry:** [POLYBRUTUS_X72_PUBLICATIONS_INDEX.md](https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md).
+- **Checkpoint:** [Polybrutus D23 publication](https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D23_PUBLICATION_2026-11-20.md).
+
 ## Publication and evidence
 
 - Specification: [SPECIFICATION_D23.md](SPECIFICATION_D23.md)

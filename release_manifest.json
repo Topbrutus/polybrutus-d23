@@ -1,0 +1,59 @@
+{
+  "ai_disclosure": "OpenAI ChatGPT (Astra) assisted; AI is not an author",
+  "files": {
+    "POLYBRUTUS_23D_NOTE.pdf": {
+      "md5": "3afafa535a76f72c52918b3cfe15f3b7",
+      "sha256": "83f0310526b1279797c6b180dd0ca95109311075f1db4d60a022dd6c36d234bf",
+      "size": 79880
+    },
+    "POLYBRUTUS_D23_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "eca95815f6d17c6721493f626a1b80d0",
+      "sha256": "134ba20f30c19aeb47d42a6088b29bbf841c8780b466684ec99f3576e677b906",
+      "size": 171157
+    },
+    "certificate_d23.json": {
+      "md5": "622b29e8e4ffa4183d75abaf68fa978e",
+      "sha256": "a3ef363bb5407ed54b07b3e1002c25d4dbdcbef946bb186862c891076c626724",
+      "size": 29710
+    }
+  },
+  "github": {
+    "frozen_scientific_commit": "23f71c9b9932894c502fb67c1326271daa0692e7",
+    "frozen_tag": "v0.1.0",
+    "main_ci": "https://github.com/Topbrutus/polybrutus-d23/actions/runs/44855024583",
+    "repository": "https://github.com/Topbrutus/polybrutus-d23",
+    "tag_ci": "https://github.com/Topbrutus/polybrutus-d23/actions/runs/44855105326"
+  },
+  "mathematics": {
+    "affine_rank": 23,
+    "centered_gram_rank": 23,
+    "graph_eigenvalue_14_multiplicity": 17,
+    "graph_eigenvalue_27_over_2_multiplicity": 4,
+    "pairs": 378,
+    "parent_pairs_preserved": 351,
+    "sum_squared_distances_R1": "3071/4",
+    "vertices": 28
+  },
+  "memoria": {
+    "checkpoint": "memoria/checkpoints/POLYBRUTUS_D23_PUBLICATION_2026-11-20.md",
+    "index": "memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md",
+    "repository": "Topbrutus/topbrutus_one"
+  },
+  "parent": {
+    "doi": "10.5281/zenodo.24409636",
+    "repository": "Topbrutus/polybrutus-d22",
+    "source_commit": "4d4e80a7156a118f8f2bebf63aca76ac5f0f06eb",
+    "tag": "v0.1.0"
+  },
+  "schema": "POLYBRUTUS-D23-RELEASE-MANIFEST-v1",
+  "scientific_author": "Gabriel St-Pierre",
+  "scientific_limits": "No measured physical extra dimension, resonance, novel universal theorem, or human peer review",
+  "status": "DONE",
+  "version": "0.1.0",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24410035",
+    "files_verification": "3/3 matched API public MD5 and byte lengths",
+    "record_id": 24410035,
+    "url": "https://zenodo.org/records/24410035"
+  }
+}
